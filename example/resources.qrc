@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/cat.jfif</file>
+        <file>Images/cheers.jfif</file>
+        <file>Images/duck.jfif</file>
+        <file>Images/dog.jfif</file>
+    </qresource>
+</RCC>
